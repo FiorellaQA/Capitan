@@ -32,6 +32,17 @@ table {
   table th {
     background-color: gray; }
 
+.content-aside {
+  padding: 10px;
+  text-align: center;
+  color: #FFF;
+  background-color: #3E3F40;
+  margin-bottom: 10px; }
+  .content-aside h2 {
+    font-size: 19px; }
+  .content-aside p {
+    font-size: 14px; }
+
 footer {
   color: #FFF;
   background-color: #3E3F40; }

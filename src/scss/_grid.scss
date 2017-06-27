@@ -38,6 +38,19 @@ table{
 		background-color: gray;
 	}
 }
+.content-aside{
+	padding: 10px;
+	text-align: center;
+	color: $text-color;
+	background-color: $secondary-dark;
+	margin-bottom: 10px;
+	h2{
+		font-size: 19px;
+	}
+	p{
+		font-size: 14px;
+	}
+}
 footer{
 	color: $text-color;
 	background-color: $secondary-dark;
